@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "McClasses",
+
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "mcc:ruby"
+    }
+  ],
+
+  "result": {
+    "item": "mcc:ruby_block",
+    "count": 1
+  }
+}

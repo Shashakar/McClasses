@@ -1,0 +1,6 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "mcc:blocks/leaves_aluminium"
+  }
+}

@@ -1,0 +1,59 @@
+//Items
+item.ruby.name=Ruby
+
+//Class Items
+item.scroll_fighter.name=Fighter Scroll
+item.scroll_rogue.name=Rogue Scroll
+item.scroll_mage.name=Mage Scroll
+
+//Tools
+item.ruby_sword.name=Ruby Sword
+item.ruby_axe.name=Ruby Axe
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_shovel.name=Ruby Shovel
+
+//Blocks
+tile.ruby_block.name=Ruby Block
+tile.hat_santa.name=Santa Hat
+
+//Furnace
+tile.furnace_sintering.name=Sintering Furnace
+container.furnace_sintering=Sintering Furnace Container
+
+//Overworld Ores
+tile.ore_overworld_aluminium.name=Aluminium Ore
+tile.ore_overworld_copper.name=Copper Ore
+
+//Nether Ores
+tile.ore_nether_aluminium.name=Nether Aluminium Ore
+tile.ore_nether_copper.name=Nether Copper Ore
+
+//End Ores
+tile.ore_end_aluminium.name=End Aluminium Ore
+tile.ore_end_copper.name=End Copper Ore
+
+//Leaves
+tile.leaves_aluminium.name=Aluminium Leaves
+tile.leaves_copper.name=Copper Leaves
+
+//Planks
+tile.planks_aluminium.name=Aluminium Planks
+tile.planks_copper.name=Copper Planks
+
+//Logs
+tile.log_aluminium.name=Aluminium Log
+tile.log_copper.name=Copper Log
+
+//Saplings
+tile.sapling_aluminium.name=Aluminium Sapling
+tile.sapling_copper.name=Copper Sapling
+
+//Entities
+entity.centaur.name=Centaur
+
+//Biomes
+generator.Copper=MCC Copper World
+generator.Custom=MCC Custom World
+
+//Tab
+itemGroup.tab_mcclasses=McClasses

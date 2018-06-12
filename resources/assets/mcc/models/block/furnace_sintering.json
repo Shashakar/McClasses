@@ -1,0 +1,12 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "particle": "mcc:blocks/furnace_sintering_front_off",
+    "up": "mcc:blocks/furnace_sintering_top",
+    "down": "mcc:blocks/furnace_sintering_top",
+    "north": "mcc:blocks/furnace_sintering_front_off",
+    "east": "mcc:blocks/furnace_sintering_side",
+    "south": "mcc:blocks/furnace_sintering_side",
+    "west": "mcc:blocks/furnace_sintering_side"
+  }
+}

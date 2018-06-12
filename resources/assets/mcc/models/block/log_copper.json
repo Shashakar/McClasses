@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "mcc:blocks/log_copper_top",
+    "side": "mcc:blocks/log_copper"
+  }
+}

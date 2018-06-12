@@ -1,0 +1,20 @@
+{
+  "entity.centaur.ambient":
+  {
+    "category": "entity",
+    "subtitle": "entity.centaur.ambient",
+    "sounds": [{ "name": "mcc:entity/centaur/ambient", "stream": true}]
+  },
+  "entity.centaur.hurt":
+  {
+    "category": "entity",
+    "subtitle": "entity.centaur.hurt",
+    "sounds": [{ "name": "mcc:entity/centaur/hurt", "stream": true}]
+  },
+  "entity.centaur.death":
+  {
+    "category": "entity",
+    "subtitle": "entity.centaur.death",
+    "sounds": [{ "name": "mcc:entity/centaur/death", "stream": true}]
+  }
+}

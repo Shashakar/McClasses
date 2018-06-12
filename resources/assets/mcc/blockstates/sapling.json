@@ -1,0 +1,10 @@
+{
+  "variants":
+  {
+    "stage=0,variant=copper": { "model": "mcc:sapling_copper" },
+    "stage=1,variant=copper": { "model": "mcc:sapling_copper" },
+
+    "stage=0,variant=aluminium": { "model": "mcc:sapling_aluminium" },
+    "stage=1,variant=aluminium": { "model": "mcc:sapling_aluminium" }
+  }
+}
